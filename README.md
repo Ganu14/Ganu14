@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Ganu14
-- 👀 I’m interested in AI and ML
-- 
+- Hi 👋 I’m Ganesh S. Bhure
+  
   
 
 <!---
